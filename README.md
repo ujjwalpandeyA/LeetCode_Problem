@@ -7,6 +7,7 @@ solving leet code problem
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -15,6 +16,7 @@ solving leet code problem
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
