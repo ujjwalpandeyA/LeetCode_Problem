@@ -23,6 +23,7 @@ solving leet code problem
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0088-merge-sorted-array) |
@@ -38,6 +39,7 @@ solving leet code problem
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0005-longest-palindromic-substring) |
 | [0242-valid-anagram](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -54,4 +56,8 @@ solving leet code problem
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
