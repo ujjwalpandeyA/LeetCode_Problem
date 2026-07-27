@@ -14,6 +14,7 @@ solving leet code problem
 | [0088-merge-sorted-array](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
@@ -22,6 +23,7 @@ solving leet code problem
 | [0007-reverse-integer](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0204-count-primes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,4 +67,12 @@ solving leet code problem
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0005-longest-palindromic-substring) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
