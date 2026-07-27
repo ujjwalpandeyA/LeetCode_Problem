@@ -18,6 +18,7 @@ solving leet code problem
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0189-rotate-array) |
 ## Two Pointers
