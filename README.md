@@ -16,6 +16,7 @@ solving leet code problem
 | [0189-rotate-array](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0283-move-zeroes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -24,6 +25,7 @@ solving leet code problem
 | [0009-palindrome-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0204-count-primes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +55,7 @@ solving leet code problem
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
