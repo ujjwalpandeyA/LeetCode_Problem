@@ -12,6 +12,7 @@ solving leet code problem
 | [0027-remove-element](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0204-count-primes) |
@@ -81,4 +82,8 @@ solving leet code problem
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0204-count-primes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
