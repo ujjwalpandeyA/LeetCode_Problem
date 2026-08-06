@@ -15,6 +15,7 @@ solving leet code problem
 | [0088-merge-sorted-array](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0283-move-zeroes) |
@@ -49,6 +50,7 @@ solving leet code problem
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -62,6 +64,7 @@ solving leet code problem
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0905-sort-array-by-parity) |
@@ -75,6 +78,7 @@ solving leet code problem
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -95,4 +99,12 @@ solving leet code problem
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0014-longest-common-prefix) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
