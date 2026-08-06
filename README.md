@@ -8,6 +8,7 @@ solving leet code problem
 | ------- |
 | [0001-two-sum](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -53,6 +54,7 @@ solving leet code problem
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0344-reverse-string) |
@@ -89,4 +91,8 @@ solving leet code problem
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0136-single-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
