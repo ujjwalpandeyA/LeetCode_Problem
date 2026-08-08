@@ -121,4 +121,8 @@ solving leet code problem
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0209-minimum-size-subarray-sum) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
