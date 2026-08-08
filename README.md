@@ -22,6 +22,7 @@ solving leet code problem
 | [0209-minimum-size-subarray-sum](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
@@ -80,6 +81,7 @@ solving leet code problem
 | [0162-find-peak-element](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
