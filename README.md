@@ -30,6 +30,7 @@ solving leet code problem
 | ------- |
 | [0007-reverse-integer](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0009-palindrome-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0263-ugly-number) |
