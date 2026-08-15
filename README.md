@@ -56,6 +56,7 @@ solving leet code problem
 | [0001-two-sum](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0242-valid-anagram) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@ solving leet code problem
 | [0242-valid-anagram](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0541-reverse-string-ii) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
