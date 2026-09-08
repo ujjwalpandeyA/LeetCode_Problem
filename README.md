@@ -26,6 +26,7 @@ solving leet code problem
 | [0704-binary-search](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0977-squares-of-a-sorted-array) |
+| [1207-unique-number-of-occurrences](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/1207-unique-number-of-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +59,7 @@ solving leet code problem
 | [0001-two-sum](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0242-valid-anagram) |
+| [1207-unique-number-of-occurrences](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/1207-unique-number-of-occurrences) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
