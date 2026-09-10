@@ -34,6 +34,7 @@ solving leet code problem
 | ------- |
 | [0007-reverse-integer](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0204-count-primes) |
@@ -72,6 +73,7 @@ solving leet code problem
 | [0003-longest-substring-without-repeating-characters](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0344-reverse-string) |
@@ -118,6 +120,7 @@ solving leet code problem
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0268-missing-number) |
 ## Trie
@@ -146,4 +149,8 @@ solving leet code problem
 | ------- |
 | [0175-combine-two-tables](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0176-second-highest-salary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
