@@ -11,6 +11,7 @@ solving leet code problem
 | [0014-longest-common-prefix](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0088-merge-sorted-array) |
@@ -84,6 +85,7 @@ solving leet code problem
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
