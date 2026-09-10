@@ -22,6 +22,7 @@ solving leet code problem
 | [0189-rotate-array](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0704-binary-search) |
@@ -37,6 +38,7 @@ solving leet code problem
 | [0189-rotate-array](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
@@ -60,6 +62,7 @@ solving leet code problem
 | [0001-two-sum](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0268-missing-number) |
 | [1207-unique-number-of-occurrences](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/1207-unique-number-of-occurrences) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
@@ -78,6 +81,7 @@ solving leet code problem
 | [0088-merge-sorted-array](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0977-squares-of-a-sorted-array) |
@@ -90,6 +94,7 @@ solving leet code problem
 | [0162-find-peak-element](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -112,6 +117,7 @@ solving leet code problem
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0268-missing-number) |
 ## Trie
 |  |
 | ------- |
