@@ -24,6 +24,7 @@ solving leet code problem
 | [0209-minimum-size-subarray-sum](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0283-move-zeroes) |
+| [0561-array-partition](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0905-sort-array-by-parity) |
@@ -87,6 +88,7 @@ solving leet code problem
 | [0169-majority-element](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0268-missing-number) |
+| [0561-array-partition](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0977-squares-of-a-sorted-array) |
@@ -163,4 +165,12 @@ solving leet code problem
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
