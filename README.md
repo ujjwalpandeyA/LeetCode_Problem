@@ -40,6 +40,7 @@ solving leet code problem
 | [0204-count-primes](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
@@ -109,6 +110,7 @@ solving leet code problem
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0005-longest-palindromic-substring) |
+| [0509-fibonacci-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -153,4 +155,12 @@ solving leet code problem
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0067-add-binary) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
