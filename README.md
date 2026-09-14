@@ -14,6 +14,7 @@ solving leet code problem
 | [0033-search-in-rotated-sorted-array](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0136-single-number) |
@@ -37,6 +38,7 @@ solving leet code problem
 | ------- |
 | [0007-reverse-integer](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0189-rotate-array) |
