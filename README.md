@@ -33,6 +33,7 @@ solving leet code problem
 | [0905-sort-array-by-parity](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/1207-unique-number-of-occurrences) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Math
 |  |
 | ------- |
