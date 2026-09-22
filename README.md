@@ -46,6 +46,7 @@ solving leet code problem
 | [0204-count-primes](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0628-maximum-product-of-three-numbers) |
@@ -91,6 +92,7 @@ solving leet code problem
 | [0344-reverse-string](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0917-reverse-only-letters) |
@@ -144,6 +146,7 @@ solving leet code problem
 | [0136-single-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Trie
 |  |
 | ------- |
