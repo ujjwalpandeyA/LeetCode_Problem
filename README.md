@@ -77,6 +77,7 @@ solving leet code problem
 | [0169-majority-element](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0389-find-the-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/1207-unique-number-of-occurrences) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -91,6 +92,7 @@ solving leet code problem
 | [0242-valid-anagram](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0415-add-strings) |
@@ -155,6 +157,7 @@ solving leet code problem
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -194,4 +197,8 @@ solving leet code problem
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0561-array-partition) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
