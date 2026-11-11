@@ -191,6 +191,7 @@ solving leet code problem
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -212,4 +213,5 @@ solving leet code problem
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/ujjwalpandeyA/LeetCode_Problem/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
